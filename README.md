@@ -1,5 +1,5 @@
-### Primeira aula PAN Academy
+Seja bem vindo ao repositório PanAcademy
 
-Paulo Roberto Carneiro Queiroz, Moqueca
+Aqui serão postados todos os exercícios que serão executados ao longo do curso.
 
-Atualmente eu trabalho com aulas particulares de Matemática, Física e Química
+
