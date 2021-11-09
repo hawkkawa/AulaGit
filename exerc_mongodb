@@ -1,0 +1,114 @@
+[
+    {
+        "_id" : ObjectId("617d996281c25cc701c25e92"),
+        "medico" : {
+            "nome" : "Sarah Freitas",
+            "documentoProfissional" : "CRM-SP 1234",
+            "especialidade" : "Clínica Médica",
+            "telefone" : "(11) 1212-12112"
+        },
+        "paciente" : {
+            "nome" : "Rita da Silva",
+            "telefone" : "(11) 8888-8888"
+        },
+        "prescricoes" : "Tomar remédio x para dor 2 vezes ao dia por 5 dias.",
+        "exames" : "Ressonancia Magnetica e Raio X",
+        "prontuario" : "Paciente se queixa de dor nas costas",
+        "dataHora" : ISODate("2021-07-12T10:00:20.000Z"),
+        "valor" : 100.0
+    },
+    {
+        "_id" : ObjectId("617d9c6b22caac02a08c8387"),
+        "medico" : {
+            "nome" : "Sarah Freitas",
+            "documentoProfissional" : "CRM-SP 1234",
+            "especialidade" : "Clínica Médica",
+            "telefone" : "(11) 1212-12112"
+        },
+        "paciente" : {
+            "nome" : "Daniel Borges",
+            "planoSaude" : "Bradesco",
+            "carteirinha" : "98765432",
+            "endereco" : "Avenida dos Papagaios número 131 apto 55A",
+            "telefone" : "(11) 7777-7777"
+        },
+        "prescricoes" : "Remédio para dor de estômago",
+        "exames" : "Endoscopia",
+        "prontuario" : "Paciente se queixa de dor e queimação no estômago",
+        "dataHora" : ISODate("2021-07-12T11:00:00.000Z"),
+        "valor" : 100.0
+    },
+    {
+        "_id" : ObjectId("617d9e1a81c25cc701c25efa"),
+        "medico" : {
+            "nome" : "Lucas Pereira",
+            "documentoProfissional" : "CRM-SP 5599",
+            "especialidade" : "Pediatria",
+            "telefone" : "(11) 4321-12343"
+        },
+        "paciente" : {
+            "nome" : "Maria da Costa",
+            "planoSaude" : "Amil",
+            "carteirinha" : "123456789",
+            "endereco" : "Rua dos Bobos número 0",
+            "telefone" : "(11) 9999-9999"
+        },
+        "prescricoes" : "Xarope",
+        "prontuario" : "Paciente se queixa de dor de garganta",
+        "dataHora" : ISODate("2021-07-12T10:00:20.000Z")
+    },
+    {
+        "_id" : ObjectId("617d9edd81c25cc701c25f10"),
+        "medico" : {
+            "nome" : "Lucas Pereira",
+            "documentoProfissional" : "CRM-SP 5599",
+            "especialidade" : "Pediatria",
+            "telefone" : "(11) 4321-12343"
+        },
+        "paciente" : {
+            "nome" : "Maria da Costa",
+            "planoSaude" : "Amil",
+            "carteirinha" : "123456789",
+            "endereco" : "Rua dos Bobos número 0",
+            "telefone" : "(11) 9999-9999"
+        },
+        "prontuario" : "Consulta de retorno, paciente apresentou melhora",
+        "dataHora" : ISODate("2021-07-19T11:00:20.000Z")
+    },
+    {
+        "_id" : ObjectId("617d9e81d1bb62c8d7637269"),
+        "medico" : {
+            "nome" : "Mateus",
+            "documentoProfissional" : "CRM-SP 12346581",
+            "especialidade" : "Clínica Médica",
+            "telefone" : "(11) 1212-12115"
+        },
+        "paciente" : {
+            "nome" : "Wesley",
+            "planoSaude" : "Bradesco",
+            "carteirinha" : "98765432",
+            "endereco" : "Avenida dos Papagaios número 131 apto 55A",
+            "telefone" : "(11) 7777-7777"
+        },
+        "prescricoes" : "Remédio para dor na próstata",
+        "exames" : "Exame de próstata",
+        "prontuario" : "Paciente se queixa de dor de cabeça",
+        "dataHora" : ISODate("2021-07-12T11:00:00.000Z")
+    },
+    {
+        "_id" : ObjectId("617d9ef86154d40c4c0c59d0"),
+        "medico" : {
+            "nome" : "Sarah Freitas",
+            "documentoProfissional" : "CRM-SP 1234",
+            "especialidade" : "Clínica Médica",
+            "telefone" : "(11) 1212-12112"
+        },
+        "paciente" : {
+            "nome" : "Rita da Silva",
+            "telefone" : "(11) 8888-8888"
+        },
+        "prescricoes" : "10 sessões de fisioterapia",
+        "prontuario" : "Consulta de retorno, paciente apresentou inflamacao na musculatura",
+        "dataHora" : ISODate("2021-07-20T09:00:20.000Z")
+    }
+]
